@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PediaPlus</string>
+    <string name="title_activity_main">PediaPlus</string>
+    <string name="package_name">com.pediaplus.app</string>
+    <string name="custom_url_scheme">com.pediaplus.app</string>
+</resources>

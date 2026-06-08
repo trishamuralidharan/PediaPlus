@@ -1,0 +1,20 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+
+# Android
+.gradle/
+build/
+.idea/
+local.properties
+android/app/build/
+
+# Executables
+ngrok.exe
+
+# Logs
+*.log
